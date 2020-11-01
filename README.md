@@ -8,4 +8,4 @@ Application for storing and managing pdf/text documents in memory. Functionality
 - Search support by word and by prefix
 - Memory limit (set by user) which when exceeded moves least recently accessed documents to disk as json  
   
-(Note: Completed in 5 stages. See /stage5 for complete project)
+<p>(Note: Completed in 5 stages. See /stage5 for complete project)</p>
